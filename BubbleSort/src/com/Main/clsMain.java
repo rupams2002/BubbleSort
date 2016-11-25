@@ -12,7 +12,7 @@ public class clsMain {
 
 	    intTemp = bubleSort(intArray);
 	    
-        System.out.println("After Bubble Sort");
+        System.out.println("Master : After Bubble Sort");
         for(int i=0; i < intTemp.length; i++){
                 System.out.print(intTemp[i] + " ");
         }
