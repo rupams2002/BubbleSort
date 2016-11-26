@@ -20,8 +20,7 @@ public class clsMain {
         System.out.println("\n");
         System.out.println("THANKS");
         System.out.println("New Fixes Done");
-}
-
+	}
 	
 	public static int[] bubleSort(int intArray[]){
         int intLength = intArray.length;
