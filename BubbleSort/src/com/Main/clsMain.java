@@ -17,8 +17,6 @@ public class clsMain {
                 System.out.print(intTemp[i] + " ");
         }
 
-        System.out.println("\n");
-        System.out.println("THANKS");
 }
 
 	
