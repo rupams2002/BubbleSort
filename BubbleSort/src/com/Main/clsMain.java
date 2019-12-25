@@ -22,8 +22,10 @@ public class clsMain extends clsBubleSort implements clsInterface {
 //		System.out.println(a.f(a));
 //		System.out.println("------------------------------------------------------");
 //      This line is added (1)
-				
-	    int intArray[] = new int[]{5,90,35,45,150,3};
+//      This line is added (2)
+
+		
+		int intArray[] = new int[]{5,90,35,45,150,3};
 	    int intTemp[];
 	    
 	    clsMain main = new clsMain();
