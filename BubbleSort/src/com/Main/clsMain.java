@@ -7,25 +7,12 @@ import com.Interface.clsInterface;
 
 public class clsMain extends clsBubleSort implements clsInterface {
 
-//	public static class A{
-//		private int i = 5;
-//		
-//		public int f(A a){
-//		   return a.i; 	
-//		}
-//	}
-	
 	
 	public static void main(String[] args) {
-//		A a = new A();
-//		a.i = 6;
-//		System.out.println(a.f(a));
-//		System.out.println("------------------------------------------------------");
-//      This line is added (1)
-//      This line is added (2)
+//      My new feature
 
 		
-		int intArray[] = new int[]{5,90,35,45,150,3};
+		int intArray[] = new int[]{5,90,35,45,150,3,9};
 	    int intTemp[];
 	    
 	    clsMain main = new clsMain();
